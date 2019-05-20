@@ -10,7 +10,7 @@
 Install Node.js, then:
 
 ```
-$ npx usamaliaquat
+$ npx faisaliqbal
 ```
 
 

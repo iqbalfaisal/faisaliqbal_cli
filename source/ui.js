@@ -40,7 +40,7 @@ const items = [
 	{
 		label: 'Skype',
 		skypeAction(){
-			return 'My skype Id is  ==> live:inconnent12345'
+			return 'My skype Id is  ==> live:bsc.f14.37'
 		}
 	},
 	// TODO: Add separator item here when https://github.com/vadimdemedes/ink-select-input/issues/4 is done
@@ -64,7 +64,7 @@ module.exports = () => (
 		</div>
 		<br/>
 		<div>
-			<Text>wanna to learn more about me 💥</Text>
+			<Text>wanna to learn more about me </Text>
 		</div>
 		<br/>
 		<SelectInput items={items} onSelect={handleSelect}/>
