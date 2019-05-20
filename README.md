@@ -2,7 +2,7 @@
 
 > The [Fasial Iqbal](https://www.linkedin.com/in/faisal-iqbal-540a52112/) CLI
 
-<!-- <img src="1.png" width="752"> -->
+<img src="1.png" width="752">
 
 
 ## Usage
