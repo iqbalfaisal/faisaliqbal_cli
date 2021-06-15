@@ -60,7 +60,7 @@ module.exports = () => (
 		<div>
 			<Text>
 				Worked as a Sr. Mobile App Developer for 3 years, having hands-on skills
-				in React Native for building a mobile application from scratch to the
+				in React Native for building a mobile applications from scratch to the
 				presentation level, has the expertise in writing complex code &
 				optimizing it. Start working as a full-stack developer by using Node JS
 				as back-end & React JS as a front end. Seek to be very proficient in
