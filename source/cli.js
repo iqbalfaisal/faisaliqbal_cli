@@ -1,18 +1,16 @@
 #!/usr/bin/env node
-'use strict';
+"use strict";
 
-const meow = require('meow');
+const meow = require("meow");
 
-const importJsx = require('import-jsx');
-const {h, render} = require('ink');
+const importJsx = require("import-jsx");
+const { h, render } = require("ink");
 
-const ui = importJsx('./ui');
+const ui = importJsx("./ui");
 
 meow(`
 	Usage
 	  $ faisaliqbal
 `);
-
-
 
 render(h(ui));
