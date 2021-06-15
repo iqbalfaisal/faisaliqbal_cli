@@ -1,9 +1,13 @@
 {
 	"name": "faisaliqbal",
-	"version": "0.0.4",
+	"version": "0.0.5",
 	"description": "The Faisal Iqbal CLI",
 	"license": "MIT",
-	"repository": "iqbalfaisal/faisaliqbal_cli",
+	"repository": "https://github.com/iqbalfaisal/faisaliqbal_cli",
+	"bugs": {
+		"url": "https://github.com/iqbalfaisal/faisaliqbal_cli/issues"
+	},
+	"homepage": "https://github.com/iqbalfaisal/faisaliqbal_cli/",
 	"author": {
 		"name": "Faisal Iqbal",
 		"email": "7faisaliqbal@gmail.com",
